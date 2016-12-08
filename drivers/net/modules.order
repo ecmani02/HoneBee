@@ -1,0 +1,12 @@
+kernel/drivers/net/netconsole.ko
+kernel/drivers/net/can/can-dev.ko
+kernel/drivers/net/ppp/ppp_generic.ko
+kernel/drivers/net/ppp/bsd_comp.ko
+kernel/drivers/net/ppp/ppp_deflate.ko
+kernel/drivers/net/ppp/ppp_generic.ko
+kernel/drivers/net/ppp/bsd_comp.ko
+kernel/drivers/net/ppp/ppp_deflate.ko
+kernel/drivers/net/ppp/ppp_generic.ko
+kernel/drivers/net/ppp/bsd_comp.ko
+kernel/drivers/net/ppp/ppp_deflate.ko
+kernel/drivers/net/slip/slhc.ko

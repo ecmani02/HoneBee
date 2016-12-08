@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.o :=  arm-none-linux-gnueabi-ld -EL    -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-probe.o drivers/clocksource/timer-atmel-pit.o drivers/clocksource/timer-atmel-st.o drivers/clocksource/tcb_clksrc.o 

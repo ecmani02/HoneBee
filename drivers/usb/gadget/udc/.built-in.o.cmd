@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/built-in.o :=  arm-none-linux-gnueabi-ld -EL    -r -o drivers/usb/gadget/udc/built-in.o drivers/usb/gadget/udc/udc-core.o drivers/usb/gadget/udc/at91_udc.o drivers/usb/gadget/udc/atmel_usba_udc.o 

@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-at91/built-in.o :=  arm-none-linux-gnueabi-ld -EL    -r -o arch/arm/mach-at91/built-in.o arch/arm/mach-at91/soc.o arch/arm/mach-at91/at91rm9200.o arch/arm/mach-at91/at91sam9.o arch/arm/mach-at91/pm.o arch/arm/mach-at91/pm_suspend.o 
